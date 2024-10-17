@@ -319,16 +319,6 @@ footer {
         text-wrap: nowrap;
     }
 
-    .mobile-user-icon {
-        display: flex !important;
-        flex: 1;
-        justify-content: flex-end;
-    }
-
-    .mobile-user-icon img {
-        width: 25px;
-    }
-
     .nav-cart h4 {
         display: none;
     }
